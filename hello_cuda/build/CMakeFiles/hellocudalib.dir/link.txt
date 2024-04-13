@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhellocudalib.a CMakeFiles/hellocudalib.dir/hellocuda.cu.o
+/usr/bin/ranlib libhellocudalib.a

@@ -1,0 +1,4 @@
+/home/kwon/CUDA_ws/CUDA_test/CMakeFiles/cudatestlib.dir
+/home/kwon/CUDA_ws/CUDA_test/CMakeFiles/cudatest.dir
+/home/kwon/CUDA_ws/CUDA_test/CMakeFiles/edit_cache.dir
+/home/kwon/CUDA_ws/CUDA_test/CMakeFiles/rebuild_cache.dir

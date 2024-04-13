@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcudatestlib.a CMakeFiles/cudatestlib.dir/axpygpu.cu.o
+/usr/bin/ranlib libcudatestlib.a

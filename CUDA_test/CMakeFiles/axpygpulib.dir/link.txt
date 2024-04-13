@@ -1,0 +1,2 @@
+/usr/bin/ar qc libaxpygpulib.a CMakeFiles/axpygpulib.dir/main.cpp.o CMakeFiles/axpygpulib.dir/axpygpu.cu.o
+/usr/bin/ranlib libaxpygpulib.a
