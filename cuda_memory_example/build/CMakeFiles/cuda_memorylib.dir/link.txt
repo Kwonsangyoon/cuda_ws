@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcuda_memorylib.a CMakeFiles/cuda_memorylib.dir/src/cuda_memory.cu.o
+/usr/bin/ranlib libcuda_memorylib.a
