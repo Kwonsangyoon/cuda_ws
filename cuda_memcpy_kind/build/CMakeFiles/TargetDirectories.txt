@@ -1,0 +1,3 @@
+/home/kwon/cuda_ws/cuda_memcpy_kind/build/CMakeFiles/cuda_memcpy_kind.dir
+/home/kwon/cuda_ws/cuda_memcpy_kind/build/CMakeFiles/edit_cache.dir
+/home/kwon/cuda_ws/cuda_memcpy_kind/build/CMakeFiles/rebuild_cache.dir

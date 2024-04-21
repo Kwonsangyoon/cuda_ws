@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcuda_memcpy_kindlib.a CMakeFiles/cuda_memcpy_kindlib.dir/cuda_memcpy_kind.cu.o
+/usr/bin/ranlib libcuda_memcpy_kindlib.a
