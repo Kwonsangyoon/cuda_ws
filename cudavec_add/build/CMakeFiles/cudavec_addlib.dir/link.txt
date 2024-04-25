@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcudavec_addlib.a CMakeFiles/cudavec_addlib.dir/src/cudavec_add.cu.o CMakeFiles/cudavec_addlib.dir/src/main.cpp.o
+/usr/bin/ranlib libcudavec_addlib.a
