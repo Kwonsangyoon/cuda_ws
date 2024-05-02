@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/timer.dir/src/timer_test.cu.o -o timer  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib"
